@@ -1,4 +1,9 @@
 # calculator
+## Project demo
+Demo: [https://vue-calculator-hazel.vercel.app](https://vue-calculator-hazel.vercel.app)
+</br>
+<img align="center" alt="GIF" width="400px" src="./public/demo.jpg" />
+</div>
 
 ## Project setup
 ```
